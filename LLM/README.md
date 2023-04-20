@@ -34,8 +34,12 @@
 - [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/pdf/2302.13939.pdf)
 - [Goal Driven Discovery of Distributional Differences via Language Descriptions](https://arxiv.org/pdf/2302.14233.pdf)
 - [Reward Design with Language Models](https://arxiv.org/pdf/2303.00001.pdf)
-- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf)
+- [Self-planning Code Generation with Large Language Model](https://arxiv.org/pdf/2303.06689.pdf)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
+- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf)
+- [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/pdf/2303.17760.pdf)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
+- [Low-code LLM: Visual Programming over LLMs](https://arxiv.org/pdf/2304.08103.pdf)
 - [Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control](https://grounded-decoding.github.io/)
 
 ## Repositories
@@ -73,6 +77,11 @@
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [GPTCache](https://github.com/zilliztech/GPTCache)
 - [wolverine](https://github.com/biobootloader/wolverine)
+- [gptdeploy](https://github.com/jina-ai/gptdeploy)
+- [auto-gpt-web](https://github.com/jina-ai/auto-gpt-web)
+- [Streamlit-Image-Annotation](https://github.com/hirune924/Streamlit-Image-Annotation)
+- [kor](https://github.com/eyurtsev/kor)
+- [camel](https://github.com/lightaime/camel)
 
 ## 文章
 
@@ -99,6 +108,8 @@
 - [ExplainThis](https://www.explainthis.io/zh-hant/chatgpt)
 - [Chat with Open Large Language Models](https://chat.lmsys.org/)
 - [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
+- [Godmode.space](https://godmode.space/)
+- [Store Copilot](https://copilot.blanklob.com/)
 
 ## Database for Vector Search
 
