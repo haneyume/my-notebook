@@ -29,6 +29,7 @@
 - [MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning](https://arxiv.org/pdf/2205.00445.pdf)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629.pdf)
 - [PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435.pdf)
+- [Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning](https://arxiv.org/pdf/2301.13808.pdf)
 - [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/pdf/2302.00923.pdf)
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
 - [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/pdf/2302.13939.pdf)
@@ -40,6 +41,11 @@
 - [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/pdf/2303.17760.pdf)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
 - [Low-code LLM: Visual Programming over LLMs](https://arxiv.org/pdf/2304.08103.pdf)
+- [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf)
+- [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/pdf/2304.11477.pdf)
+- [Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models](https://arxiv.org/pdf/2304.13835.pdf)
+- [q2d: Turning Questions into Dialogs to Teach Models How to Search](https://arxiv.org/pdf/2304.14318.pdf)
+- [We’re Afraid Language Models Aren’t Modeling Ambiguity](https://arxiv.org/pdf/2304.14399.pdf)
 - [Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control](https://grounded-decoding.github.io/)
 
 ## Repositories
@@ -82,6 +88,7 @@
 - [Streamlit-Image-Annotation](https://github.com/hirune924/Streamlit-Image-Annotation)
 - [kor](https://github.com/eyurtsev/kor)
 - [camel](https://github.com/lightaime/camel)
+- [pyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI)
 
 ## 文章
 
