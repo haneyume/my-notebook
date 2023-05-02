@@ -41,8 +41,11 @@
 - [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/pdf/2303.17760.pdf)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
 - [Low-code LLM: Visual Programming over LLMs](https://arxiv.org/pdf/2304.08103.pdf)
+- [Supporting Human-AI Collaboration in Auditing LLMs with LLMs](https://arxiv.org/pdf/2304.09991.pdf)
+- [Learning to Program with Natural Language](https://arxiv.org/pdf/2304.10464.pdf)
 - [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf)
 - [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/pdf/2304.11477.pdf)
+- [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
 - [Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models](https://arxiv.org/pdf/2304.13835.pdf)
 - [q2d: Turning Questions into Dialogs to Teach Models How to Search](https://arxiv.org/pdf/2304.14318.pdf)
 - [We’re Afraid Language Models Aren’t Modeling Ambiguity](https://arxiv.org/pdf/2304.14399.pdf)
@@ -89,6 +92,13 @@
 - [kor](https://github.com/eyurtsev/kor)
 - [camel](https://github.com/lightaime/camel)
 - [pyCodeAGI](https://github.com/chakkaradeep/pyCodeAGI)
+- [LlamaAcademy](https://github.com/danielgross/LlamaAcademy)
+- [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
+- [xai-gpt-agent-toolkit](https://github.com/XpressAI/xai-gpt-agent-toolkit)
+- [AI-TDD](https://github.com/di-sukharev/AI-TDD)
+- [ai-component-generator](https://github.com/haneyume/ai-component-generator)
+- [thinkgpt](https://github.com/alaeddine-13/thinkgpt)
+- [ChatVRM](https://github.com/pixiv/ChatVRM)
 
 ## 文章
 
@@ -117,6 +127,7 @@
 - [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 - [Godmode.space](https://godmode.space/)
 - [Store Copilot](https://copilot.blanklob.com/)
+- [Human-AI Interaction](https://creativity.ucsd.edu/ai)
 
 ## Database for Vector Search
 
