@@ -97,7 +97,7 @@
 - [ai-legion](https://github.com/eumemic/ai-legion)
 - [GPTCache](https://github.com/zilliztech/GPTCache)
 - [wolverine](https://github.com/biobootloader/wolverine)
-- [gptdeploy](https://github.com/jina-ai/gptdeploy)
+- [dev-gpt](https://github.com/jina-ai/dev-gpt)
 - [auto-gpt-web](https://github.com/jina-ai/auto-gpt-web)
 - [Streamlit-Image-Annotation](https://github.com/hirune924/Streamlit-Image-Annotation)
 - [kor](https://github.com/eyurtsev/kor)
@@ -113,6 +113,10 @@
 - [MiniChain](https://github.com/srush/MiniChain)
 - [StoryStorm](https://github.com/peterw/StoryStorm)
 - [langcorn](https://github.com/msoedov/langcorn)
+- [TaskMatrix](https://github.com/microsoft/TaskMatrix)
+- [FigmaChain](https://github.com/cirediatpl/FigmaChain)
+- [SadTalker](https://github.com/OpenTalker/SadTalker)
+- [rxdrag](https://github.com/codebdy/rxdrag)
 
 ## 文章
 
