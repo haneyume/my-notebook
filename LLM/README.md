@@ -117,6 +117,7 @@
 - [FigmaChain](https://github.com/cirediatpl/FigmaChain)
 - [SadTalker](https://github.com/OpenTalker/SadTalker)
 - [rxdrag](https://github.com/codebdy/rxdrag)
+- [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)
 
 ## 文章
 
